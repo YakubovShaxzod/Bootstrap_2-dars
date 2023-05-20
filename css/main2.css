@@ -1,0 +1,31 @@
+body{
+    background-color: wheat;
+
+}
+.wrap{
+    margin-left: 500px;
+    margin-top: 200px;
+
+}
+.border-radius {
+    border-radius: 0 !important;
+}
+.border-radius1{
+    border-radius: 20px !important;
+
+}
+.border01{
+    border-bottom: 3px solid darkblue !important;
+}
+.border02{
+    border-bottom: 3px solid darkgreen !important;
+}
+.border03{
+    border-bottom: 3px solid blue !important;
+}
+.border04{
+    border-bottom: 3px solid chocolate !important;
+}
+.border05{
+    border-bottom: 3px solid darkred !important;
+}

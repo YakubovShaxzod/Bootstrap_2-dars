@@ -1,0 +1,107 @@
+.container{
+    margin-top:100px;
+
+}
+button{
+    width: 180px !important;
+    height: 40px !important;
+}
+.but1{
+    background-color: mediumseagreen;
+}
+.but2{
+    background-color: mediumspringgreen;
+}
+.but3{
+    background-color: #28a745;
+}
+.but4{
+    background-color:  #0062cc;
+}
+.but5{
+    background-color: #007bff;
+}
+.but6{
+    background-color: #0062cc;
+}
+.but7{
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    color: lightgray;
+    text-align: left;
+    margin-top: 10px;
+}
+.but8{
+    background-color: white;
+    border: 1px solid grey;
+    color: grey;
+    text-align: left;
+    margin-top: 10px;
+}
+.but9{
+    background-color: white;
+    border: 1px solid gray;
+    text-align: left;
+    margin-top: 10px;
+}
+.but10{
+    background-color: white;
+    border: 1px solid #0056b3;
+    text-align: left;
+    margin-top: 10px;
+}
+.but11{
+    background-color: white;
+    text-align: left;
+    border: 2px solid lightseagreen;
+    margin-top: 10px;
+}
+.but12{
+    background-color: white;
+    border: 2px solid red;
+    text-align: left;
+    margin-top: 10px;
+}
+.but13{
+    background-color: white;
+    text-align: left;
+    border: 2px solid grey;
+    margin-top: 10px;
+}
+.but14{
+    background-color: white;
+    border: 2px solid gray;
+    text-align: left;
+    margin-top: 10px;
+}
+img{
+    width: 400px;
+    height: 90px;
+    margin-top: 30px;
+}
+.foto1{
+    width: 22px;
+    height: 22px;
+    margin-top: -9px;
+    margin-left: 35px;
+}
+.foto2{
+    width: 22px;
+    height: 22px;
+    margin-top: -9px;
+    margin-left:55px;
+}
+.foto3{
+    width: 20px;
+    height: 20px;
+    margin-top: -9px;
+    margin-left:60px;
+}
+.foto4{
+    width: 40px;
+    height: 39px;
+    margin-left: 32px;
+    margin-top: -8px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
